@@ -1,18 +1,18 @@
 div{
     margin: 20px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
 }
 .container{
-    width: 800px;
-    height: 800px;
+    width: 650px;
+    height: 650px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
 img{
-    width: 800px;
+    width: 650px;
     height: 500px;
 }
