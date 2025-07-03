@@ -1,0 +1,19 @@
+.container4{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+form{
+    text-align: center;
+    width: 500px;
+    border-radius: 20px;
+    border: solid black 1px;
+    
+}
+input{
+    margin: 10px;
+}
+button{
+    margin: 10px;
+}
